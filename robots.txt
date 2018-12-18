@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.hair42.ru/sitemap.xml
